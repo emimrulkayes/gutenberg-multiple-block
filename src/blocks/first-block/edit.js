@@ -33,7 +33,7 @@ export default function Edit() {
 	return (
 		<p { ...useBlockProps() }>
 			{ __(
-				'Gutenberg Multiple Block – hello from the editor!',
+				'Gutenberg Multiple First Block – hello from the editor!',
 				'gutenberg-multiple-block'
 			) }
 		</p>

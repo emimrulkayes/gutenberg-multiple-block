@@ -22,6 +22,6 @@
 
 /* eslint-disable no-console */
 console.log(
-	'Hello World! (from create-block-gutenberg-multiple-block block)'
+	'Hello World! (from create-block-scound-block block)'
 );
 /* eslint-enable no-console */
